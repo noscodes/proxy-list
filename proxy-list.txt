@@ -1,7 +1,3 @@
-Proxy list updated at Wed, 04 Apr 18 19:55:07 +0300
-Mirrors=http://spys.me/proxy.txt https://twitter.com/spys_one https://t.me/spys_one
-IP address:Port Country-Anonymity(Noa/Anm/Hia)-SSL_support(S)-Google_passed(+)
-
 181.188.166.82:8080 BO-N-S - 
 182.52.22.58:8080 TH-N! - 
 114.215.185.226:3128 CN-A - 
